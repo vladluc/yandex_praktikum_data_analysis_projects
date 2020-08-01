@@ -6,4 +6,4 @@
 | Исследование надежности заемщиков | - | *Pandas*, *PyMystem3* |
 | Продажа квартир в Санкт-Петербурге | - | *Pandas*, *Matplotlib* |
 | Определение выгодного тарифа для телеком-компании | - | *Pandas*, *Matplotlib*, *NumPy*, *SciPy* |
-| Изучение рынка видеоигр | - | *Pandas*, *Matplotlib*, *NumPy* |
+| Изучение рынка видеоигр | - | *Pandas*, *Matplotlib*, *NumPy*, *Seaborn* |
